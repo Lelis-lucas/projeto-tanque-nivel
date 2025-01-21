@@ -11,6 +11,9 @@ Este projeto simula o controle de nível de um tanque utilizando **Python**. Ele
 - Gráficos interativos usando **Matplotlib**.
 - Contabilização de **transbordamentos**.
 
+## Visualizações
+![Gráfico do Tanque](images/case1.png)
+
 ## Pré-requisitos
 Certifique-se de ter o **Python 3.x** instalado e os seguintes pacotes:
 - `matplotlib`
